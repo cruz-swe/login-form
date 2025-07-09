@@ -4,8 +4,7 @@ A simple and clean login form built with only HTML and CSS. This project demonst
 
 ## 🌐 Live Demo
 
-[View it here](https://yourusername.github.io/login-form/)  
-> *(Replace with your actual GitHub Pages link after deploying)*
+[View it here](https://login-formx.netlify.app/)  
 
 ## 📸 Screenshot
 
